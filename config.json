@@ -1,0 +1,18 @@
+{
+    "camera_id": 0,
+    "ear_threshold": 0.2,
+    "ear_consec_frames": 20,
+    "head_pose_threshold_yaw": 40,
+    "head_pose_threshold_pitch": 25,
+    "head_pose_consec_frames": 15,
+    "head_pose_invert_pitch": true,
+    "no_face_consec_frames": 30,
+    "face_detection_confidence": 0.3,
+    "face_tracking_confidence": 0.3,
+    "alarm_sound": "sounds/alarm.wav",
+    "alarm_video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "use_head_pose": true,
+    "use_sound": true,
+    "use_video": false,
+    "log_file": "logs/detector.log"
+}
